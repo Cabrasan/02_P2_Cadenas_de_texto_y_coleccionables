@@ -1,0 +1,1 @@
+# 02_P2_Cadenas_de_texto_y_coleccionables
